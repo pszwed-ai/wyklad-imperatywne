@@ -1,1 +1,1 @@
-"# wyklad-imperatywne"  
+# wyklad-imperatywne
